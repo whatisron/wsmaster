@@ -1,0 +1,4 @@
+wsmaster
+========
+
+phonegap test
